@@ -1,0 +1,10 @@
+C:\Users\ahmed\source\repos\Generate Text\bin\Debug\Generate Text.exe.config
+C:\Users\ahmed\source\repos\Generate Text\bin\Debug\Generate Text.exe
+C:\Users\ahmed\source\repos\Generate Text\bin\Debug\Generate Text.pdb
+C:\Users\ahmed\source\repos\Generate Text\obj\Debug\Generate Text.csproj.AssemblyReference.cache
+C:\Users\ahmed\source\repos\Generate Text\obj\Debug\Generate_Text.Form1.resources
+C:\Users\ahmed\source\repos\Generate Text\obj\Debug\Generate_Text.Properties.Resources.resources
+C:\Users\ahmed\source\repos\Generate Text\obj\Debug\Generate Text.csproj.GenerateResource.cache
+C:\Users\ahmed\source\repos\Generate Text\obj\Debug\Generate Text.csproj.CoreCompileInputs.cache
+C:\Users\ahmed\source\repos\Generate Text\obj\Debug\Generate Text.exe
+C:\Users\ahmed\source\repos\Generate Text\obj\Debug\Generate Text.pdb
